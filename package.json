@@ -1,20 +1,26 @@
 {
-  "name": "winjs-plugin-template",
+  "name": "@winner-fed/plugin-wconsole",
+  "description": "WinJS 移动端调试插件，集成 vConsole、PageSpy、Eruda 三大调试工具，提供强大的 H5 应用调试和监控解决方案",
   "keywords": [
     "winjs",
     "plugin",
-    "template",
+    "wconsole",
+    "vconsole",
+    "eruda",
+    "pagespy",
+    "mobile-debug",
+    "h5-debug",
+    "console",
+    "debug-tools",
+    "remote-debug",
+    "mobile-devtools",
     "winner-fed",
-    "winjs-dev",
-    "rslib",
-    "rsbuild",
-    "typescript",
-    "biome"
+    "winjs-dev"
   ],
-  "version": "0.0.0",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/winjs-dev/winjs-plugin-template.git"
+    "url": "git+https://github.com/winjs-dev/winjs-plugin-wconsole.git"
   },
   "license": "MIT",
   "type": "module",
